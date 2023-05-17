@@ -1,0 +1,78 @@
+<svg width="439.40000000000003" height="67.59465983982768" viewBox="0 0 370.37931034482756 56.9769310297419" class="css-1j8o68f" style="
+    max-width: 250%;
+"><defs id="SvgjsDefs3018"></defs><g id="SvgjsG3019" featurekey="symbolFeature-0" transform="matrix(1.263031499157019,0,0,1.263031499157019,-7.84122531218194,-39.46913396965269)" fill="#000000"><g xmlns="http://www.w3.org/2000/svg" transform="translate(0,-952.36218)"><path style="color:;enable-background:accumulate;" d="m 7.000009,1016.3622 16,-1 c 0,-3.0491 2,-8 2,-8 0,0 2.5409,0 5,0 2,-4 5,-12.00002 7,-12.00002 0,0 1,-4 3,-4 2.6314,0 16.99998,9.00002 16.99998,9.00002 l -10.99998,16 c 0,0 5.41738,-2.8351 10.99998,-4 1.988,-0.4148 -0.2344,-4.7065 2,-5 1.929,-0.2534 4,-1 5,-1 1,0 2.0324,-13.24872 4,-11.00002 7,8.00002 21.4047,17.28082 25.000002,21.00002 l -12.000002,-17.00002 -3,4.00002 -9,-13.00002 -11,7 -10.99998,-8 -3,2 -5,-3 -4,6 -5,-2 -12,16.00002 -3.3749,-0.6251 -7.6251,8.6251" fill="#000000" stroke="none" marker="none" visibility="visible" display="inline" overflow="visible"></path></g></g><g id="SvgjsG3020" featurekey="nameFeature-0" transform="matrix(1.4441429020753491,0,0,1.4441429020753491,124.79728407658241,-14.44027489196174)" fill="#323232"><path d="M14.707 19.531 c5.2734 0 9.6484 3.9063 9.6484 10.469 s-4.375 10.469 -9.6484 10.469 c-2.7734 0 -5.1953 -1.1133 -6.3281 -3.0859 l-0.13672 2.6172 l-5.332 0 l0 -30 l5.625 0 l0 12.363 c1.1719 -1.8164 3.5156 -2.832 6.1719 -2.832 z M13.398 35.8008 c2.9883 0 5.332 -2.207 5.332 -5.8008 c0 -3.6133 -2.3438 -5.8203 -5.332 -5.8203 c-2.9688 0 -5.3125 2.3047 -5.3125 5.8203 s2.3242 5.8008 5.3125 5.8008 z M42.7005078125 19.922 l5.7617 0 l-12.383 29.531 l-5.7031 0 l4.5898 -10.273 l-8.2617 -19.258 l6.1328 0 l4.7852 13.203 z M59.873421875 40 c-3.9063 0 -6.1328 -2.2656 -6.1328 -6.2695 l0 -9.4922 l-3.9453 0 l0 -4.3164 l1.2695 0 c2.1289 0 3.3008 -0.82031 3.3008 -3.8281 l0 -2.6563 l5.0781 0 l0 6.4844 l4.1406 0 l0 4.3164 l-4.1406 0 l0 8.8867 c0 1.7969 0.87891 2.5977 2.3242 2.5977 l1.8164 0 l0 4.2773 l-3.7109 0 z M76.3822109375 40 c-3.9063 0 -6.1328 -2.2656 -6.1328 -6.2695 l0 -9.4922 l-3.9453 0 l0 -4.3164 l1.2695 0 c2.1289 0 3.3008 -0.82031 3.3008 -3.8281 l0 -2.6563 l5.0781 0 l0 6.4844 l4.1406 0 l0 4.3164 l-4.1406 0 l0 8.8867 c0 1.7969 0.87891 2.5977 2.3242 2.5977 l1.8164 0 l0 4.2773 l-3.7109 0 z M90.8008 23.105 c1.0156 -1.7773 3.6523 -3.418 6.5625 -3.418 l0 5.0195 c-4.2578 0 -6.2891 1.25 -6.2891 5.5078 l0 9.7852 l-5.6641 0 l0 -20.078 l5.3906 0 l0 3.1836 z M118.0908203125 34.5508 c0 2.4609 0.23438 4.0234 0.48828 4.9023 l0 0.54688 l-5.2539 0 l-0.44922 -2.1875 c-1.5039 1.8164 -4.1016 2.5781 -6.4453 2.5781 c-3.1641 0 -6.25 -1.4063 -6.25 -5.5859 c0 -4.1602 3.1055 -5.5664 7.3047 -6.4844 l3.3008 -0.74219 c1.4258 -0.33203 1.9336 -0.82031 1.9336 -1.6406 c0 -1.9727 -1.7969 -2.5195 -3.3789 -2.5195 c-2.0313 0 -3.5742 0.80078 -3.9258 3.0664 l-4.9805 -0.89844 c0.83984 -4.1602 3.8867 -6.0547 9.2188 -6.0547 c4.0234 0 8.4375 1.1914 8.4375 7.2461 l0 7.7734 z M108.1885203125 36.582 c2.6758 0 4.8242 -1.7773 4.8242 -5.7617 l-4.7656 1.3477 c-1.5625 0.37109 -2.6953 0.91797 -2.6953 2.2656 c0 1.4453 1.1914 2.1484 2.6367 2.1484 z M138.759328125 10 l5.625 0 l0 30 l-5.332 0 l-0.13672 -2.6172 c-1.1523 1.9727 -3.5742 3.0859 -6.3086 3.0859 c-5.293 0 -9.668 -3.9063 -9.668 -10.469 s4.3945 -10.469 9.668 -10.469 c2.6367 0 4.9609 0.99609 6.1523 2.8125 l0 -12.344 z M133.896328125 35.8008 c2.9883 0 5.3125 -2.2852 5.3125 -5.8008 s-2.3438 -5.8203 -5.3125 -5.8203 c-2.9883 0 -5.332 2.207 -5.332 5.8203 c0 3.5938 2.3438 5.8008 5.332 5.8008 z M170.0538359375 29.668 l-0.058594 1.3477 l-14.883 0 c0.23438 3.3398 2.4609 4.9414 5.1367 4.9414 c2.0117 0 3.5742 -0.9375 4.3359 -2.7148 l5.1563 0.76172 c-1.3281 4.0625 -4.9414 6.3867 -9.4531 6.3867 c-6.4844 0 -10.723 -3.8281 -10.723 -10.43 s4.3555 -10.469 10.547 -10.469 c5.6836 0 9.9219 3.1445 9.9414 10.176 z M160.1518359375 23.477 c-2.5586 0 -4.3359 1.1914 -4.8828 3.8672 l9.2188 0 c-0.29297 -2.5586 -2.0313 -3.8672 -4.3359 -3.8672 z"></path></g></svg>
+
+
+
+
+
+
+
+<section class="welcome-area">
+
+    
+    
+    <div class="welcome-slides owl-carousel">
+    
+    <div class="single-welcome-slide">
+    
+    <div class="welcome-content h-100">
+    <div class="container h-100">
+    <div class="row h-100 align-items-center">
+    
+    <div class="col-12 col-md-9 col-lg-7">
+    <div class="welcome-text mb-50">
+    <h2 id="text"><span class="probel">|</span></h2>
+    <h3 data-animation="fadeInLeftBig" data-delay="400ms" data-duration="1s">Starting at <span>$79.99</span> $29.95/month*</h3>
+    <p data-animation="fadeInLeftBig" data-delay="600ms" data-duration="1s">Everything you will EVER need to make profit on CryptoTrading!</p>
+    <a href="#" class="btn hami-btn btn-3">Get Start Now!</a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+     
+    <div class="welcome-thumbnail">
+      <img src="img/core-img/Head-logo.png" alt="" style="
+      position: absolute;
+      top: -350px;
+      left: 50%;
+      transform: translateX(-50%);
+      min-width: 800px;
+      height: auto;
+    ">
+    </div>
+    </div>
+    
+    <div class="single-welcome-slide">
+    
+    <div class="welcome-content h-100">
+    <div class="container h-100">
+    <div class="row h-100 align-items-center">
+    
+    <div class="col-12 col-md-9 col-lg-7">
+    <div  class="welcome-text mb-50">
+    <h2 data-animation="fadeInUpBig" data-delay="200ms" data-duration="1s">New<br>Features</h2>
+    <h3 data-animation="fadeInUpBig" data-delay="400ms" data-duration="1s">Coming Soon</h3>
+    <p data-animation="fadeInUpBig" data-delay="600ms" data-duration="1s">The ONLY neural network on the market for trading made in partnership with OpenAI technologies!</p>
+    
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="welcome-thumbnail">
+    <img src="img/core-img/Matterhorn.png" alt="">
+    </div>
+    </div>
+    </div>
+    
+    <div class="clouds">
+    <img src="img/core-img/litecoin.png" alt="" class="cloud-1">
+    <img src="img/core-img/bitcoin.png" alt="" class="cloud-2">
+    <img src="img/core-img/dogecoin.png" alt="" class="cloud-3">
+    <img src="img/core-img/etherium.png" alt="" class="cloud-4">
+    <img src="img/core-img/tether.png" alt="" class="cloud-5">
+    </div>
+    </section>

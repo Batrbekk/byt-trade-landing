@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="coin" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="max-width: 100%; max-height: 100%;">
+<circle cx="24.358" cy="32.358" r="22.858" fill="#F0E583" stroke="black" stroke-dasharray="0,0,0,142.69557189941406"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,142.69557189941406; 
+          0,71.34778594970703,71.34778594970703,0; 
+          142.69557189941406,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<line x1="6.94568" y1="15.2951" x2="40.0716" y2="15.2951" stroke="black" stroke-dasharray="0,0,0,33.12592315673828"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,33.12592315673828; 
+          0,16.56296157836914,16.56296157836914,0; 
+          33.12592315673828,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></line>
+<line x1="3.54816" y1="22.9395" x2="36.6741" y2="22.9395" stroke="black" stroke-dasharray="0,0,0,33.125938415527344"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,33.125938415527344; 
+          0,16.562969207763672,16.562969207763672,0; 
+          33.125938415527344,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></line>
+<line x1="1" y1="32.2827" x2="34.1259" y2="32.2827" stroke="black" stroke-dasharray="0,0,0,33.12590026855469"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,33.12590026855469; 
+          0,16.562950134277344,16.562950134277344,0; 
+          33.12590026855469,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></line>
+<line x1="3.54816" y1="41.6259" x2="36.6741" y2="41.6259" stroke="black" stroke-dasharray="0,0,0,33.125938415527344"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,33.125938415527344; 
+          0,16.562969207763672,16.562969207763672,0; 
+          33.125938415527344,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></line>
+<line x1="7.79504" y1="48.421" x2="40.9209" y2="48.421" stroke="black" stroke-dasharray="0,0,0,33.125858306884766"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,33.125858306884766; 
+          0,16.562929153442383,16.562929153442383,0; 
+          33.125858306884766,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></line>
+<circle cx="30.153" cy="31.8518" r="22.858" fill="#F0E583" stroke="black" stroke-dasharray="0,0,0,142.695556640625"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,142.695556640625; 
+          0,71.3477783203125,71.3477783203125,0; 
+          142.695556640625,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<rect y="30" width="42.4264" height="42.4264" transform="rotate(-45 0 30)" fill="url(#pattern0)" stroke-dasharray="0,0,0,169.70559692382812"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="2.7777777777777777s" values="0,0,0,169.70559692382812; 
+          0,84.85279846191406,84.85279846191406,0; 
+          169.70559692382812,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_15" transform="scale(0.0111111)"></use>
+</pattern>
+<image id="image0_1_15" width="90" height="90" xlink:href="data:image/png;base64,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"></image>
+</defs>
+<setting>{"type":"direct","speed":18,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>

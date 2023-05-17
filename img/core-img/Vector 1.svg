@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Vector1" width="131" height="75" viewBox="0 0 131 75" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<path d="M1 4L19.9982 1.00029C31.5799 -0.82841 43.1669 4.25037 49.6709 14.0064V14.0064C50.5556 15.3333 51.3331 16.7287 51.9962 18.1791L57.7398 30.7433C62.8336 41.8859 76.0566 46.71 87.129 41.4652V41.4652C97.2887 36.6527 109.442 40.2852 115.295 49.8835L130 74" stroke="black" stroke-dasharray="0,0,0,167.31983947753906"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,167.31983947753906; 
+          0,83.65991973876953,83.65991973876953,0; 
+          167.31983947753906,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<setting>{"type":"direct","speed":14,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>
